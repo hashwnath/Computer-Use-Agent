@@ -13,7 +13,7 @@ A bash computer use agent powered by NVIDIA Nemotron Nano 9B v2 that can execute
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hashwnath/nvidia-bash-agent
+   git clone https://github.com/hashwnath/Computer-Use-Agent
    cd nvidia-bash-agent
    ```
 
