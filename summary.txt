@@ -1,0 +1,13 @@
+Current working directory: /Users/hashwanthsutharapu/Desktop/Hashwanth/PythonProject/ComputerUseAgent/bash_computer_use_agent\n\nSize summary of top-level items: 20K	__pycache__
+4.0K	summary.txt
+4.0K	requirements.txt
+4.0K	main_langgraph.py
+4.0K	main_from_scratch.py
+4.0K	helpers.py
+4.0K	config.py
+4.0K	bash.py
+4.0K	README.md
+nDescription of top 3 files:
+1. requirements.txt: Lists project dependencies for installation via pip.
+2. main_langgraph.py: Main script utilizing LangGraph for stateful application logic.
+3. main_from_scratch.py: Alternative or original main script, possibly for testing or comparison.
