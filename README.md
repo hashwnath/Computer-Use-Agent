@@ -1,5 +1,6 @@
 # NVIDIA Nemotron Bash Computer Use Agent
 
+<img width="1999" height="957" alt="image" src="https://github.com/user-attachments/assets/5cf3b9a0-7f8e-439e-8df8-e2a2f4f7c405" />
 A bash computer use agent powered by NVIDIA Nemotron Nano 9B v2 that can execute shell commands with user confirmation.
 
 ## Features
